@@ -11,7 +11,7 @@ This project analyzes car sales data with multiple dimensions including brand, m
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **MySQL** – for data cleaning, transformation, and splitting normalized tables.
 - **Power BI** – for building an interactive dashboard and data model.
