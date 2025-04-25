@@ -20,7 +20,7 @@ This project analyzes car sales data with multiple dimensions including brand, m
 
 ---
 
-## 📁 Data Model (Star Schema)
+## Data Model (Star Schema)
 
 - `car_info` – center fact table
 - `brand_info` – dimension (Car brand and image)
@@ -29,7 +29,7 @@ This project analyzes car sales data with multiple dimensions including brand, m
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - KPI cards: Total Sales, Most Expensive Car Sold, Top Brand
 - Slicers for Brand, Transmission, Color
@@ -39,7 +39,7 @@ This project analyzes car sales data with multiple dimensions including brand, m
 
 ---
 
-## 🚀 Key Learnings
+## Key Learnings
 
 - Implemented **star schema** for performance
 - Used **ALLSELECTED() and DAX** for dynamic metrics
@@ -48,14 +48,14 @@ This project analyzes car sales data with multiple dimensions including brand, m
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `car_sales_MySQL` – Scripts for creating tables and exporting data
 - `CarSales_Dashboard.pbix` – Main Power BI file
 - `README.md` – This file
 
 ---
-## 📬 Connect with Me
+## Connect with Me
 
 - **LinkedIn**: [Aibell Bijesh](https://www.linkedin.com/in/aibell-bijesh/)
 - **GitHub**: [github.com/aibellbijesh](https://github.com/aibellbijesh)
